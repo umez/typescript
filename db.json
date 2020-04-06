@@ -6,19 +6,14 @@
       "age": 5
     },
     {
-      "name": "new record",
-      "age": 0,
+      "name": "Umez",
+      "age": 20,
       "id": 2
     },
     {
-      "name": "new record",
-      "age": 0,
-      "id": 3
-    },
-    {
       "name": "NAME",
-      "age": 20,
-      "id": 4
+      "age": 45,
+      "id": 3
     }
   ]
 }

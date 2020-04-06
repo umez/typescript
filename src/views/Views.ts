@@ -57,7 +57,12 @@ regions: { [key: string]: Element } = {};
     templateElement.innerHTML = this.template();
     this.bindEvents(templateElement.content);
     this.mapRegions(templateElement.content);
+
+    this.onRender();
+
     this.parent.append(templateElement.content);
   }
+
+  onRender(): void {}
   
 }
